@@ -16,7 +16,13 @@ Projekt využívá moderní techniky jako Flexbox, CSS Grid, adaptivní media qu
 
 ## Struktura projektu
 
-<pre> ```text /src ├── index.html # Hlavní HTML soubor ├── style.css # CSS styly projektu ├── img/ # Složka s obrázky └── icons/ # Složka s ikonami ``` </pre>
+<pre> 
+index.html              # Hlavní HTML soubor
+src/                    # Soubor zdroju
+├── style.css           # CSS styly projektu
+├── img/                # Složka s obrázky
+└── icons/              # Složka s ikonami
+</pre>
 
 ## Jak spustit
 
